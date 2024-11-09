@@ -1,4 +1,6 @@
 # TODO-List-Console-Application
+SUBITHRA S S:
+
 Project Overview
 A simple Python command-line Task Manager to add, view, complete, edit, and delete tasks.
 
@@ -17,3 +19,28 @@ Known Limitations
 1. No Persistence: Tasks are not saved after exiting.
 2. Basic Attributes: Only title, description, and completion status are supported.
 3. Limited Error Handling: Minimal validation for inputs.
+
+
+SURUTHILAYA S:
+Enhanced To-Do List Manager
+Project Overview
+This is an enhanced console-based To-Do List Manager that allows users to manage their tasks in an efficient and interactive way. It supports task addition, deletion, editing, marking tasks as completed, filtering tasks, searching, sorting, and more. The tasks are stored in a local JSON file to ensure persistence across sessions.
+Features
+- Add tasks with descriptions, due dates, and priorities (low, medium, high).
+- View tasks with detailed information (ID, description, due date, priority, status).
+- Edit tasks to update descriptions, due dates, or priorities.
+- Delete tasks by ID.
+- Mark tasks as completed.
+- Filter tasks based on status (completed or pending), priority, or due date.
+- Sort tasks by due date, priority, or description.
+- Search tasks by keywords in the description.
+- Persistent storage via a JSON file.
+Setup Instructions
+1. Install Python 3.x if you haven't already. You can download it from [python.org](https://www.python.org/downloads/).
+2. Clone or download the repository to your local machine.
+3. Navigate to the project directory in the terminal.
+4. Run the program:
+   ```bash
+   python todo_manager.py
+
+
